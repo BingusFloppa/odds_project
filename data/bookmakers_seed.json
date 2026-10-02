@@ -1,0 +1,58 @@
+[
+  {
+    "bookmaker_key": "seed:1xbet",
+    "name": "1xBet",
+    "calc_odds": true,
+    "for_bets": true,
+    "build_clusters": false
+  },
+  {
+    "bookmaker_key": "seed:betanything",
+    "name": "BetAnything",
+    "calc_odds": true,
+    "for_bets": true,
+    "build_clusters": false
+  },
+  {
+    "bookmaker_key": "seed:betonline-ag",
+    "name": "BetOnline.ag",
+    "calc_odds": true,
+    "for_bets": true,
+    "build_clusters": false
+  },
+  {
+    "bookmaker_key": "seed:coolbet",
+    "name": "Coolbet",
+    "calc_odds": true,
+    "for_bets": true,
+    "build_clusters": false
+  },
+  {
+    "bookmaker_key": "seed:gtbets",
+    "name": "GTbets",
+    "calc_odds": true,
+    "for_bets": true,
+    "build_clusters": false
+  },
+  {
+    "bookmaker_key": "seed:matchbook",
+    "name": "Matchbook",
+    "calc_odds": true,
+    "for_bets": true,
+    "build_clusters": false
+  },
+  {
+    "bookmaker_key": "seed:mybookie-ag",
+    "name": "MyBookie.ag",
+    "calc_odds": true,
+    "for_bets": true,
+    "build_clusters": false
+  },
+  {
+    "bookmaker_key": "seed:pinnacle",
+    "name": "Pinnacle",
+    "calc_odds": true,
+    "for_bets": true,
+    "build_clusters": false
+  }
+]
